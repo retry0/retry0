@@ -12,7 +12,8 @@ Beside
 * Nuxt.js
 * MongoDB
 * Laravel
-
+* Docker 🐋
+* Kubernetes :ship:
 
 ### 📫 How to reach me:
 - Mail 📩: linggaadi4nd@gmail.com
