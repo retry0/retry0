@@ -2,7 +2,7 @@
 # Lingga Adi Pratama - @retry0
 
 
-Hi There 👋 I'm Lingga - a Software Engineer 👨🏻👨🏻‍💻 from Indonesia 🇮🇩  and previous working at E-Life Solutions Plt  in Johor Malaysia 🇲🇾. I'm huge geek/nerd 🤓 and also love :musical_note:, :clapper: 
+Hi There 👋 I'm Lingga - a Software Engineer 👨🏻‍💻 from Indonesia 🇮🇩  and previous working at E-Life Solutions Plt  in Johor Malaysia 🇲🇾. I'm huge geek/nerd 🤓 and also love :musical_note: :clapper: 
 
 Beside
 
