@@ -17,5 +17,5 @@ Beside
 
 ### 📫 How to reach me:
 - Mail 📩: justhelp.develeper@gmail.com
-- Twitter 🐦 : [@Linggaadi4] (https://twitter.com/Linggaadi4)
+- Twitter 🐦 : [@Linggaadi4] (https://twitter.com/retry04)
 - Instagram :camera: : [@retry0] (https://instagram.com/retry0)
