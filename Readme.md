@@ -2,13 +2,13 @@
 # Lingga Adi Pratama - @retry0
 
 
-Hi There 👋 I'm Lingga - a Software Engineer 👨🏻‍💻 from Indonesia 🇮🇩  and previous working at E-Life Solutions Plt  in Johor Malaysia 🇲🇾. I'm huge geek/nerd 🤓 and also love :musical_note: :clapper: 
+Hi There 👋 I'm Lingga - a Software Engineer 👨🏻‍💻 from Indonesia 🇮🇩  and now working at Sinarmas in Indonesia 🇮🇩. I'm huge geek/nerd 🤓 and also love :musical_note: :clapper: 
 
 Beside
 
-
 ### 💬 Ask me about: Tech Stack?
 * Node.js 🖤
+* React Native :sparkling_heart:
 * Nuxt.js
 * MongoDB
 * Laravel
