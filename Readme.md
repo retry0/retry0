@@ -12,7 +12,7 @@
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256-blk.png" width="70" />
   
   <h3>Main Techstacks 🛠</h4>
-  <img src="https://imgur.com/Tmqmz7p" width="70" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="70" />
   <img src="" width="70" />
@@ -32,9 +32,9 @@
         <strong>Twitter</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" width="13" />
       </a>
       •
-<!--       <a href='https://de.linkedin.com/in/muhamad-irham-prasetyo/en-us?trk=profile-badge'>
+<a href='https://www.linkedin.com/in/lingga-adi-pratama/'>
         <strong>LinkedIn</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="13" />
-      </a>  -->
+      </a> 
     </p>
   </div>
   
