@@ -11,10 +11,10 @@
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256-blk.png" width="70" />
   
   <h3>Main Techstacks 🛠</h4>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" />
+  <img src="https://imgur.com/Tmqmz7p" width="70" />
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="70" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fredux&psig=AOvVaw2kv4rltzNkoMPf_ZHVaB2L&ust=1621664699890000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiG4OSR2vACFQAAAAAdAAAAABAN" width="70" />
+  <img src="" width="70" />
   
   <h4>Other Skill</h4>
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70" />
