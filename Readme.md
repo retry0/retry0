@@ -7,7 +7,7 @@
   <hr/>
   
    <h3>Operating System</h3>
-  <img src="https://github.com/retry0/retry0/blob/master/linux.png" width="70" />
+  <img src="https://github.com/retry0/retry0/blob/master/img/linux.png" width="70" />
   
   <h3>Languages</h3>
   <img src="https://github.com/retry0/retry0/blob/master/img/js.png" width="70" />
