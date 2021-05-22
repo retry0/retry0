@@ -7,8 +7,7 @@
   <hr/>
   
   <h3>Languages</h3>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/Tmqmz7p" data-context="false" ><a href="//imgur.com/a/Tmqmz7p"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-  <img src="https://imgur.com/Tmqmz7p" width="70" />
+  <img src="https://github.com/retry0/retry0/blob/master/img/js.png" width="70" />
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256-blk.png" width="70" />
   
   <h3>Main Techstacks 🛠</h4>
