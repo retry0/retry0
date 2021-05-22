@@ -8,20 +8,24 @@
   
   <h3>Languages</h3>
   <img src="https://github.com/retry0/retry0/blob/master/img/js.png" width="70" />
-  <img src="https://www.rust-lang.org/logos/rust-logo-256x256-blk.png" width="70" />
+  <img src="https://github.com/retry0/retry0/blob/master/img/php.png" width="70" />
   
   <h3>Main Techstacks 🛠</h4>
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" />
+  <img src="https://github.com/retry0/retry0/blob/master/img/redux.png" width="70" />
+  <img src="https://github.com/retry0/retry0/blob/master/img/nextjs.png" width="70" />
   <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="70" />
-  <img src="" width="70" />
+ 
   
   <h4>Other Skill</h4>
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANextjs-logo.svg&psig=AOvVaw2Lbb3841KIkFfkYLjkruEp&ust=1621665041377000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID_74eT2vACFQAAAAAdAAAAABAD" width="70" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AExpress%2C_Inc._logo.svg&psig=AOvVaw3ysstjUCPizIJBxYBruC-U&ust=1621664807838000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi54KKS2vACFQAAAAAdAAAAABAD" width="70" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonepatch.com%2Fdevelopment%2Fweb-development%2Fback-end-development%2Flaravel%2F&psig=AOvVaw1Sae9sOcj8KrhIUFKO4KBq&ust=1621664895220000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDlqMKS2vACFQAAAAAdAAAAABAa" width="70" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGoogleCloudPlatform%2Fhackathon-toolkit%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw24lIDqbsXIG4fyQ6NwoZ1z&ust=1621664942812000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjsjdmS2vACFQAAAAAdAAAAABAs" width="70" />
+   <img src="https://github.com/retry0/retry0/blob/master/img/ci.png" width="70">
+  <img src="https://github.com/retry0/retry0/blob/master/img/laravel.png" width="70" />
+    <img src="https://github.com/retry0/retry0/blob/master/img/socket.png" width="70" />
+  <img src="https://github.com/retry0/retry0/blob/master/img/postgresql.png" width="70" />
+  <img src="https://github.com/retry0/retry0/blob/master/img/msql.png" width="70" />
+  <img src="https://github.com/retry0/retry0/blob/master/img/gcp.gif" width="70" />
+
   <hr />
   
   <div>
@@ -37,5 +41,5 @@
     </p>
   </div>
   
-<!--   ![github stats](https://github-readme-stats.vercel.app/api?username=irhamputra&show_icons=true) -->
+   ![github stats](https://github-readme-stats.vercel.app/api?username=retry0&show_icons=true) 
 </div>
