@@ -7,7 +7,7 @@
   <hr/>
   
   <h3>Languages</h3>
-  <img src="https://cloud.githubusercontent.com/assets/10656223/15247118/e71dc6a2-1909-11e6-9b90-ae86204f41c3.png" width="70" />
+  <img src="https://imgur.com/Tmqmz7p" width="70" />
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256-blk.png" width="70" />
   
   <h3>Main Techstacks 🛠</h4>
