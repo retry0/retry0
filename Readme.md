@@ -6,9 +6,13 @@
   
   <hr/>
   
+   <h3>Operating System</h3>
+  <img src="https://github.com/retry0/retry0/blob/master/linux.png" width="70" />
+  
   <h3>Languages</h3>
   <img src="https://github.com/retry0/retry0/blob/master/img/js.png" width="70" />
   <img src="https://github.com/retry0/retry0/blob/master/img/php.png" width="70" />
+  <img src="https://github.com/retry0/retry0/blob/master/img/golang.png" width="70" />
   
   <h3>Main Techstacks 🛠</h4>
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" />
