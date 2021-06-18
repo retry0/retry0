@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="300" />
-  <h1>Hi 👋🏼 I'm Lingga 🙋🏻‍♂️</h1>
+  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Lingga 🙋🏻‍♂️</h1>
   <strong>Software Engineer</strong>
   <p>My name is Lingga Adi Pratama, I come from Indonesia 🇮🇩 <br/> Based out in Minato, Japan 🇯🇵 </strong>
   
