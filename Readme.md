@@ -45,5 +45,7 @@
     </p>
   </div>
   
-   ![github stats](https://github-readme-stats.vercel.app/api?username=retry0&show_icons=true) 
+<!--    ![github stats](https://github-readme-stats.vercel.app/api?username=retry0&show_icons=true) -->
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=retry0&show_icons=true&theme=react" alt="Welly's github stats" />
+     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retry0&layout=compact&theme=react" alt="Retry0's top languages" />
 </div>
