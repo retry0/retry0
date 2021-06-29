@@ -32,7 +32,7 @@
 
   <hr />
   
-  <div>
+<!--   <div>
     <h4>Connect 🤝</h4>
     <p>
       <a href='https://twitter.com/retry04'>
@@ -43,7 +43,7 @@
         <strong>LinkedIn</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="13" />
       </a> 
     </p>
-  </div>
+  </div> -->
   
 <!--    ![github stats](https://github-readme-stats.vercel.app/api?username=retry0&show_icons=true) -->
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=retry0&show_icons=true&theme=react" alt="Welly's github stats" />
