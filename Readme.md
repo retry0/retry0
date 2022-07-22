@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="300" />
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Adi 🙋🏻‍♂️</h1>
   <strong>Software Engineer</strong>
-  <p>My name is Adi, I come from Indonesia 🇮🇩 <br/> Based out in Dublin, Ireland 🇮🇪 </strong>
+  <p>My name is Adi, I come from Jakarta, Indonesia</strong>
   
   <hr/>
   
